@@ -23,7 +23,11 @@ Ableton Watchdog runs quietly in the system tray, clears that crash recovery sta
 
 Grab the latest installer from the [Releases page](https://github.com/SimonHolden/ableton-watchdog/releases), run it, done. Re-running the installer later to update won't touch your existing settings or activity log.
 
-Still in beta, so expect the odd rough edge, and a version number that climbs steadily rather than jumping straight to 1.0.
+Still in beta, so expect the odd rough edge, and a version number that climbs steadily rather than jumping straight to 1.0. Use it at your own risk: it runs well on my own rigs, but there's no warranty, so test it on your own setup before trusting it on a show.
+
+## Questions or bugs?
+
+Open an [issue on GitHub](https://github.com/SimonHolden/ableton-watchdog/issues) and I'll take a look. Keeps everything in one place instead of clogging up email.
 
 ## Support
 
