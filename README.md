@@ -1,6 +1,6 @@
 # Ableton Watchdog
 
-![Latest release](https://img.shields.io/github/v/release/SimonHolden/ableton-watchdog)
+![Latest release](https://img.shields.io/github/v/release/SimonHolden/ableton-watchdog?include_prereleases)
 
 A small Windows tray app that keeps Ableton Live launching silently after unattended restarts, with no crash recovery dialogs and nobody needing to click anything.
 
@@ -23,7 +23,7 @@ Ableton Watchdog runs quietly in the system tray, clears that crash recovery sta
 
 Grab the latest installer from the [Releases page](https://github.com/SimonHolden/ableton-watchdog/releases), run it, done. Re-running the installer later to update won't touch your existing settings or activity log.
 
-Still in beta, so expect the odd rough edge.
+Still in beta, so expect the odd rough edge, and a version number that climbs steadily rather than jumping straight to 1.0.
 
 ## Support
 
@@ -33,4 +33,4 @@ Ableton Watchdog is free to use. If it's saved you from a dead unattended rig, o
 
 ---
 
-Built by Simon, Sinclair Technology. Queenstown, New Zealand.
+Built by Simon, Sinclair Technology. Queenstown / Wanaka, New Zealand.
